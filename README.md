@@ -8,6 +8,12 @@ This application began as a learning project I ran through on a Udemy course. I 
 python command_dicts.py
 ```
 
+## Unittest
+
+```python
+python -m unittest discover
+```
+
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
